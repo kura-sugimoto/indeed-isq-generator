@@ -1,0 +1,2 @@
+# indeed-isq-generator
+indeedスクリーニング用の質問項目の追加のためのjson生成ツール
